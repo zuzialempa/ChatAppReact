@@ -1,0 +1,67 @@
+body {
+  font-family: 'Arial';
+  background-color: #e9f5ff;
+}
+
+.primaryBackgroundColor {
+  background-color: #57b0ff;
+}
+.whiteBackgroundColor {
+  background-color: white;
+}
+
+.whiteText {
+  color: white;
+}
+.darkText {
+  color: #696969;
+}
+
+.chatBoxBorder {
+  padding: 0.5vh;
+  height: 87vh;
+  overflow-y: scroll;
+}
+
+.messageBoxPadding {
+  padding-bottom: 0.5vh;
+  padding-top: 0.5vh;
+  padding-left: 0.5vh;
+}
+
+.smallBottomGreyBorder {
+  border-bottom-color: #f0f0f0;
+  border-bottom-style: solid;
+  border-bottom-width: 0.1rem;
+}
+
+.messageInputBox {
+  position: fixed;
+  bottom: 2vh;
+  padding: 0.2vh 0.8vh;
+}
+
+.inline {
+  display: inline;
+  margin: 0.2vh;
+}
+
+.button {
+  padding: 1vh;
+  border: none;
+  margin: 1vh;
+  padding: 1vh 3vh;
+}
+
+.tinyCase {
+  font-size: 0.6rem;
+}
+.smallCase {
+  font-size: 0.8rem;
+}
+.smallLeftPadding {
+  padding-left: 1vh;
+}
+.smallRightPadding {
+  padding-right: 1vh;
+}
